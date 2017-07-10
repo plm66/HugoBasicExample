@@ -24,3 +24,4 @@ Enjoy!
 
 [Hugo themes]: https://github.com/gohugoio/hugoThemes
 # HugoBasicExample
+# HugoBasicExample
