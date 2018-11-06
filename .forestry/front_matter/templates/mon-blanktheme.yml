@@ -2,6 +2,12 @@
 label: mon blankTheme
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: besoin_d_un_titre
+  label: Titre
+  description: Une description
+  config:
+    required: true
 pages:
 - content/premiere.md
