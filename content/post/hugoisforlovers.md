@@ -1,20 +1,12 @@
 +++
-title = "Getting Started with Hugo"
-description = ""
-tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
-]
+categories = ["Development", "golang"]
 date = "2014-04-02"
-categories = [
-    "Development",
-    "golang",
-]
-menu = "main"
-+++
+description = ""
+tags = ["go", "golang", "hugo", "development"]
+title = "Getting Started with Hugo / années anterieures"
+[menu.main]
 
++++
 ## Step 1. Install Hugo
 
 Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the
