@@ -29,5 +29,12 @@ fields:
   name: une_image
   label: Une Image
   description: Faire voir, c'est un plus
+- type: blocks
+  name: les_blocks
+  label: Les blocks - dejà je ne sais pas quoi en faire
+  description: il faut un template aussi
+  config:
+    min: '2'
+    max: '20'
 pages:
 - content/premiere.md
