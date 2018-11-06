@@ -37,4 +37,5 @@ fields:
     min: '2'
     max: '20'
 pages:
+- content/page/alors.md
 - content/premiere.md
