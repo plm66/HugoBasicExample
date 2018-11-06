@@ -3,3 +3,5 @@ label: mon blankTheme
 hide_body: false
 is_partial: false
 fields: []
+pages:
+- content/premiere.md
