@@ -25,5 +25,9 @@ fields:
   config:
     display_utc: false
     date_format: YYYY/DD/MM
+- type: file
+  name: une_image
+  label: Une Image
+  description: Faire voir, c'est un plus
 pages:
 - content/premiere.md
