@@ -25,17 +25,6 @@ fields:
   config:
     display_utc: false
     date_format: YYYY/DD/MM
-- type: file
-  name: une_image
-  label: Une Image
-  description: Faire voir, c'est un plus
-- type: blocks
-  name: les_blocks
-  label: Les blocks - dejà je ne sais pas quoi en faire
-  description: il faut un template aussi
-  config:
-    min: ''
-    max: '20'
 pages:
 - content/page/alors.md
 - content/premiere.md
