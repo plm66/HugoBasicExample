@@ -18,5 +18,12 @@ fields:
     wysiwyg: true
     schema:
       format: html-blocks
+- type: datetime
+  name: la_date
+  label: LA date
+  description: Savoir quand ce texte a té écrit, c'est pas mal
+  config:
+    display_utc: false
+    date_format: YYYY/DD/MM
 pages:
 - content/premiere.md
