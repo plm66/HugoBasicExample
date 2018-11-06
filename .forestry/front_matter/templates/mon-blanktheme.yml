@@ -34,7 +34,7 @@ fields:
   label: Les blocks - dejà je ne sais pas quoi en faire
   description: il faut un template aussi
   config:
-    min: '2'
+    min: ''
     max: '20'
 pages:
 - content/page/alors.md
