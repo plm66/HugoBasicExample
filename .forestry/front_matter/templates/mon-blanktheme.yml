@@ -9,5 +9,14 @@ fields:
   description: Une description
   config:
     required: true
+- type: textarea
+  name: le_texte
+  label: Entrer ici
+  description: Tout ce qu'il y a à dire
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
 pages:
 - content/premiere.md
